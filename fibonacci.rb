@@ -2,7 +2,7 @@ def fibs(n)
   result = []
   n.times do |num|
     if (0..1).include?(num)
-      result << 1
+      result << num
     else
       result << result[-1] + result[-2]
     end
@@ -11,5 +11,6 @@ def fibs(n)
   result
 end
 
-def fibs_rec
+def fibs_rec(n)
+
 end

@@ -7,6 +7,9 @@ Two methods written to return `n` numbers of the Fibonacci sequence. One is writ
 #### Returns
 Array containing the first `n` numbers of the Fibonacci sequence
 
+## Problems
+Write two methods that return `n` numbers of the Fibonacci sequence: one using iteration, the other using recursion
+
 ## What I used
 Iterative loops, recursive methods
 

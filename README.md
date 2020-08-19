@@ -8,5 +8,7 @@ Two methods written to return `n` numbers of the Fibonacci sequence. One is writ
 Array containing the first `n` numbers of the Fibonacci sequence
 
 ## What I used
+Iterative loops, recursive methods
 
 ## What I learned
+Basic recursion
